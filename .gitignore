@@ -3,4 +3,4 @@ bin/
 lib/
 lib/python3.*/site-packages/
 pyvenv.cfg
-.gitignore
+share/
