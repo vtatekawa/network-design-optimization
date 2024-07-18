@@ -27,7 +27,7 @@ O script visa:
 
 ### 🏭 O Problema de Otimização
 
-Dado de Exemplo:
+Dados de Exemplo:
 - **10 fábricas**
 - **100 SKUs (produtos)**
 - **200 clientes**
@@ -79,7 +79,7 @@ Certifique-se de ter as seguintes dependências instaladas:
 Instale-as usando pip:
 
 ```bash
-pip install pulp pandas
+pip install requirements.txt
 ```
 
 ## 🚀 Uso
