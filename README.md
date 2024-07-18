@@ -11,7 +11,6 @@ Bem-vindo ao projeto **Network Design Optimization**! Este repositório contém 
 - [Dependências](#dependências)
 - [Uso](#uso)
 - [Saída](#saída)
-- [Contribuindo](#contribuindo)
 - [Licença](#licença)
 
 ## 📋 Visão Geral
