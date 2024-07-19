@@ -11,7 +11,6 @@ Bem-vindo ao projeto **Network Design Optimization**! Este repositório contém 
 - [Dependências](#dependências)
 - [Uso](#uso)
 - [Saída](#saída)
-- [Licença](#licença)
 
 ## 📋 Visão Geral
 
@@ -110,10 +109,6 @@ Resultados Detalhados:
 ```
 
 Os resultados detalhados serão impressos e também podem ser exportados para um arquivo Excel na pasta output para análise posterior.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
